@@ -1,6 +1,6 @@
 # CR Sub
 
-#### PlayResX: 640 & PlayResY: 360
+#### PlayResX: 640 <br> PlayResY: 360
 
 ```bash
 Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
